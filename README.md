@@ -1,4 +1,5 @@
- Introduction
+Introduction
+
 At ma2me2, we take data privacy seriously. This privacy policy explains who we are, how we collect, share, and use Personal Data, and how you can exercise your privacy rights.
 
 We have tried to make this policy easily readable. We recommend that you read it in full. However, to make it easier for you to focus on the parts that particularly apply to you, we have divided this policy into sections: Sections 1 and 4 (Everyone), Section 2 (Engineers and Engineer Contacts), Section 3 (Clients and Client Contacts).
@@ -6,9 +7,11 @@ We have tried to make this policy easily readable. We recommend that you read it
 If we provide you with any different or additional privacy policies, we shall let you know how those policies interact with this policy. You may contact us about it by e-mail at: matwometwo@gmail.com.
 
 About Us
+
 The ma2me2 Platform consists of our website, mobile apps, and related software and is owned and operated by ma2me2 PVT Limited, a company incorporated and registered in the UK, France, and Pakistan and its affiliates (ma2me2, us, we, or our). It enables us to provide Clients with access to engineering resourcing and Engineers with access to Assignments. ma2me2 is evolving its business model to hire freelance engineers on a task basis, similar to the Uber model. This shift broadens our app’s appeal and functionality and makes it crucial for us to reach a larger audience. To achieve this, we believe that distribution through the Play store & App Store is the most appropriate channel to effectively reach our target audience. We are committed to ensuring that our app meets all necessary guidelines and provides value to users across various sectors.
 
 Definitions
+
 Task: Any engineering assignment, role, or project.
 Client: Any business organization to which we market, offer, or provide the ma2me2 Platform and our services.
 Client Contact: An individual whose details have been provided to us who is employed by or acts on behalf of a client.
