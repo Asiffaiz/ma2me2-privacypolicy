@@ -88,7 +88,7 @@ Right to withdraw consent: if you have consented to the use of your Personal Inf
 
 The right to lodge a complaint: you have the right to complain to the competent national data protection authority (in the UK, the Information Commissioner’s Office – www.ico.org.uk).
 
-If you would like to exercise your rights, complain about this policy, or if you think our collection or use of Personal Information is unfair or in breach of your rights, you may contact our Data Protection Officer at contact@htechsupports.com. We will try to respond to you within a reasonable period. We may need you to provide information to confirm your identity before respond. Data protection laws provide exceptions from your rights in certain circumstances. If an exception applies, we will tell you this when we respond.
+If you would like to exercise your rights, complain about this policy, or if you think our collection or use of Personal Information is unfair or in breach of your rights, you may contact our Data Protection Officer at matwometwo@gmail.com. We will try to respond to you within a reasonable period. We may need you to provide information to confirm your identity before respond. Data protection laws provide exceptions from your rights in certain circumstances. If an exception applies, we will tell you this when we respond.
 
 You may unsubscribe from e-mail alerts at any time. You may choose to stop receiving mobile push notifications by changing the preferences on your mobile device or by contacting us.
 
