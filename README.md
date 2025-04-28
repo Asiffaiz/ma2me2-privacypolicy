@@ -13,13 +13,19 @@ The ma2me2 Platform consists of our website, mobile apps, and related software a
 Definitions
 
 Task: Any engineering assignment, role, or project.
+
 Client: Any business organization to which we market, offer, or provide the ma2me2 Platform and our services.
+
 Client Contact: An individual whose details have been provided to us who is employed by or acts on behalf of a client.
+
 Engineer Contact: Any individual whose personal details have been provided to us for use in relation to an Engineer, including as an emergency contact or to act as a referee for the Engineer.
+
 Engineer: Any individual engineer (irrespective of gender) to whom we market, offer, or provide opportunities to carry out Assignments.
 Personal Information: Any information that identifies or can be used to identify an individual directly or indirectly.
+
 You or User: Any current or potential user of the ma2me2 Platform and/or our services (including any Engineer, Engineer Contact, Client, or Client Contact, or other user).
 Personal Information Collection and Use
+
 4.1 General Data Collected
 
 We collect Personal Information to provide and improve our services. This includes:
