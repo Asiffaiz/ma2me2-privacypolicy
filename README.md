@@ -26,28 +26,41 @@ We collect Personal Information to provide and improve our services. This includ
 
 From Website and Apps: Interaction details, device information (e.g., IP address, browser type), and usage data.
 From Emails and Communication: Contact details, feedback, and other correspondence.
+
 4.2 Mobile App Usage
 
 Types of Data Collected: We collect geolocation data, device information, and usage data from our mobile app. This includes:
 Geolocation: Used to track and provide location details for task management.
+
 Device Information: Includes device type, operating system, and app version.
+
 Usage Data: Includes information about your interactions with the app.
+
   Task Check-In and Check-Out: The app collects geolocation data at check-in and check-out times to track task progress. This data is securely stored and used to ensure accurate task management and reporting. This feature is particularly important given our new business model, as it helps manage freelance engineering tasks efficiently.
+
   Mobile App-Specific Compliance: We comply with Apple App Store and Google Play Store privacy policies and guidelines, including user consent and sensitive information handling. Our adherence to these guidelines supports the effectiveness of our updated business model.
 Data Security for Mobile App: We use secure APIs with JWT standard tokenization over SSL encrypted connections to protect data collected via the mobile app.
+
 User Rights and Controls: Users can control their data within the app, including enabling or disabling location tracking, managing notifications, and deleting their account or data.
+
 Third-Party Integrations: We integrate with Google Maps SDK to provide location details for tasks. We disclose this integration and ensure that it complies with privacy and data handling standards.
+
 4.3 Engineers
 
 Personal Information Collected: Includes name, date of birth, bank details, driving license, national identity card and/or passport, nationality, citizenship, right to work information, various contact details, log-in details, education, career and income history, certifications, qualifications, skills, experience, online information, onboarding vetting and test results, criminal records information, personal service company details, and any other personally identifiable data.
+
 4.4 Clients and Client Contacts
 
 Personal Information Collected: Includes name, contact details, job role, title, responsibilities, reviews, feedback, business requirements, information from business cards, networking events, advertisements, and other relevant details.
 Lawful Basis for Processing
+
 Legitimate Interests: Most processing is based on legitimate interests related to our business operations.
+
 Consent: Required for processing sensitive data or where mandated by law.
+
 Automated Decision-Making: Currently, no significant automated decision-making is used.
 Sharing of Personal Information
+
 Engineers: Personal information may be shared with relevant Engineers for service delivery purposes.
 Clients: Engineer and Engineer Contact information may be shared with Clients as necessary for service delivery.
 Affiliates: Information may be shared with affiliated companies processing data on our behalf.
@@ -56,17 +69,22 @@ Compliance with Laws: Data may be shared as required by law, including legal pro
 International Transfers
 We may transfer Personal Information outside the EEA, ensuring protection through EU Standard Contractual Clauses or other legal frameworks.
 Cookies
+
 Types of Cookies: We use cookies to enhance functionality, personalize experiences, and perform analytics.
 Cookie Management: Users can control cookies through their browser settings.
 Data Protection
 We have adopted robust processes, policies and technologies that are designed to prevent unauthorized or unlawful access to and misuse of your Personal Information, and to deal with any suspected data breach. If you suspect any misuse, loss of or unauthorized access to your Personal Information, please contact us contact@htechsupports.com as soon as possible.
+
 Your information is held on servers hosted by us or our internet service provider. Unfortunately, the transmission of information via the internet is not completely secure. Although we will take steps to protect your Personal Information, we cannot guarantee the security of your data transmitted to our website. Therefore, any such transmission is at your own risk.
+
 Password Protection: Users are responsible for maintaining the confidentiality of their passwords.
 Data Retention
 Retention Period: Personal Information is retained for up to six years post-service or as required by law, and securely deleted when no longer needed.
 Marketing
+
 Communications: We may send marketing communications and updates. Users can unsubscribe from these communications.
 Changes to Privacy Policy
+
 Updates: Significant changes will be communicated to active users. Regular updates will be posted on the website.
 Your rights in relation to Personal Information
 As set out below, you have certain rights in relation to your Personal Information.
